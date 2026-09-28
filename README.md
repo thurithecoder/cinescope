@@ -1,0 +1,2 @@
+# cinescope
+Movie Review App
